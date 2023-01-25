@@ -14,8 +14,7 @@ function returnsANamedFunction(){
     return fn;
 }
 function returnsAnAnonymousFunction(){
-    return function() {
-        
+    return function() {    
     }
 }  
     
